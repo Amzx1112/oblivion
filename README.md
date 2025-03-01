@@ -35,7 +35,7 @@ It's leveraging `bepass-sdk` and a custom Go implementation of WireGuard, it's d
 - Choose "APK" and proceed.
 
 ## Get Involved
-
+bepass-sdk
 We're a community-driven project, aiming to make the internet accessible for all. Whether you want to contribute code, suggest features, or need some help, we'd love to hear from you! Check out our [GitHub Issues](https://github.com/bepass-org/oblivion/issues) or submit a pull request.
 
 ## Acknowledgements and Credits
